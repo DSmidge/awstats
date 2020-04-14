@@ -121,7 +121,7 @@
 # 2005-12-15
 #		added FAST Enteprise Crawler/6 (www dot fastsearch dot com). Note spelling Enteprise not Enterprise.
 #		added findlinks http://wortschatz.uni-leipzig.de/findlinks/
-#		added IBM Almaden Research Center WebFountain™ http://www.almaden.ibm.com/cs/crawler [hc3]
+#		added IBM Almaden Research Center WebFountainâ„¢ http://www.almaden.ibm.com/cs/crawler [hc3]
 #		added INFOMINE/8.0 VLCrawler (http://infomine.ucr.edu/useragents)
 #		added lmspider (lmspider@scansoft.com) http://www.nuance.com/
 #		added noxtrumbot http://www.noxtrum.com/
@@ -1138,6 +1138,7 @@
 'mydoyouhike',
 'myweb',
 'nagios',
+'najdi',
 'nasa_search',
 'ndspider',
 'nederland\.zoek',
@@ -2262,6 +2263,7 @@
 'mydoyouhike','mydoyouhike',
 'myweb','myweb',
 'nagios','nagios',
+'najdi','najdi',
 'nasa_search','nasa_search',
 'ndspider','ndspider',
 'nederland\.zoek','nederland.zoek',
